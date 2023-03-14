@@ -1,2 +1,52 @@
-# MachineLeaningClass
-2023 1학기 머신러닝 수업
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNS59daVkCBFjbqp+1zd8D0",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/yr0118kim/MachineLeaningClass/blob/main/2023Machine.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Machin_Leaning&fontSize=90)\n",
+        "#HELLO THERE:)\n",
+        "#대구 소프트웨어 마이스터고\n",
+        "##2학년 4반 김예림\n",
+        "![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yr0118kim&show_icons=true&theme=radical)\n",
+        "> Follow your heart❤️\n",
+        "\n",
+        "* 머신러닝 배우는 중\n",
+        "* Frontend 개발자\n",
+        "* 7교시 언제 끝나아아\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "QXkSK2IUaxVI"
+      }
+    }
+  ]
+}
